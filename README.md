@@ -1,33 +1,33 @@
 # AI Chrome Extension Project
 
-This project is a simple AI-based Chrome Extension built using HTML, CSS and JavaScript.
+This is a simple and lightweight AI-based Chrome Extension built using HTML, CSS, and JavaScript.
 
-## Features
-- Clean and simple user interface  
-- Lightweight and fast  
+## 🌟 Features
+- User-friendly interface  
 - Works directly inside Chrome  
-- Easy to load and test  
+- Lightweight and fast  
+- Built with basic web technologies  
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML  
 - CSS  
 - JavaScript  
-- Chrome Extension Manifest  
+- Chrome Extension Manifest (manifest.json)  
 
-## How to Run
-1. Download the project files  
-2. Open Chrome and go to: chrome://extensions  
-3. Turn ON *Developer Mode*  
-4. Click *Load Unpacked*  
-5. Select the project folder  
-6. The extension will be added to your Chrome browser  
-
-## Project Structure
+## 📁 Project Structure
 - index.html  
 - style.css  
 - script.js  
 - manifest.json  
 - icons/ (if available)
 
-## Author
+## ▶️ How to Install and Use
+1. Download the project files  
+2. Open Chrome and go to: chrome://extensions  
+3. Turn ON *Developer mode*  
+4. Click *Load unpacked*  
+5. Select your project folder  
+6. The extension will appear in your Chrome toolbar  
+
+## 👤 Author
 Jayabharathi
